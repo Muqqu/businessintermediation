@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.454" height="24.454" viewBox="0 0 24.454 24.454">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path1152" d="M0-682.665H24.454v24.454H0Z" transform="translate(0 682.665)" fill="#252525" stroke="#252525" stroke-width="1.333"/>
+    </clipPath>
+  </defs>
+  <g id="refrres" transform="translate(0 -0.002)">
+    <g id="Group_147" data-name="Group 147" transform="translate(0 0.002)">
+      <g id="g1146" transform="translate(0 0)">
+        <g id="g1148">
+          <g id="g1150" clip-path="url(#clip-path)">
+            <g id="g1156" transform="translate(6.114 0.955)">
+              <path id="path1158" d="M0-164.553a6.114,6.114,0,0,1,6.114-6.114,6.114,6.114,0,0,1,6.114,6.114,6.114,6.114,0,0,1-6.114,6.114A6.114,6.114,0,0,1,0-164.553Z" transform="translate(0 170.666)" fill="none" stroke="#252525" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8"/>
+            </g>
+            <g id="g1160" transform="translate(0.955 13.182)">
+              <path id="path1162" d="M0-303.394a11.272,11.272,0,0,1,11.272-11.272" transform="translate(0 314.666)" fill="none" stroke="#252525" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8"/>
+            </g>
+            <g id="g1164" transform="translate(14.09 17.529)">
+              <path id="path1166" d="M-219.832,0h-3.056A5.11,5.11,0,0,0-228,5.106l0,1.82" transform="translate(227.999)" fill="none" stroke="#c20ad8" stroke-miterlimit="10" stroke-width="1.8"/>
+            </g>
+            <g id="g1168" transform="translate(19.296 13.756)">
+              <path id="path1170" d="M0,0,3.821,3.821,0,7.642" fill="none" stroke="#c20ad8" stroke-miterlimit="10" stroke-width="1.8"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
